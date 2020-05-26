@@ -12,7 +12,7 @@ A project to engage with the bitcoin Lightning Network over RFID/NFC, using an E
 ![alt text](https://i.imgur.com/CtX7M1d.png)
 
 
-###Parts list###
+**Parts list**
 2 possible sources, from: Aliexpress.com (cheaper, but slower) & Amazon.co.uk (faster, more expensive):
 
 1.	ESP32 Wireless WiFi Bluetooth Development Board
@@ -34,7 +34,7 @@ A project to engage with the bitcoin Lightning Network over RFID/NFC, using an E
 [AliExpress](https://www.aliexpress.com/wholesale?catId=0&SearchText=16+key+membrane) / 
 [Amazon](https://www.amazon.co.uk/s?k=16+key+membrane)
 
-###Procedure###
+**Procedure**
 
 * Assemble as per above wiring diagram.
 
